@@ -12,7 +12,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 24
+    compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion "25.0.0"
 
     defaultConfig {
