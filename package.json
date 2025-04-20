@@ -1,7 +1,7 @@
 {
-  "name": "react-native-fingerprint-change",
+  "name": "react-native-fingerprint-android",
   "version": "1.2.5",
-  "description": "Detect fingerprint change (Addition or Removal of a fingerprint)",
+  "description": "Detect fingerprint android (Addition or Removal of a fingerprint)",
   "homepage": "https://github.com/MaxToyberman/react-native-fingerprint-change#readme",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MaxToyberman/react-native-fingerprint-change"
+    "url": "https://github.com/MaxToyberman/react-native-fingerprint-android"
   },
   "keywords": [
     "react-native"
